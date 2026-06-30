@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/0031-next-permutation) |
+| [0204-count-primes](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,4 +47,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
