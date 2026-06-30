@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/0001-two-sum) |
 | [0567-permutation-in-string](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/0567-permutation-in-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/0567-permutation-in-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -43,4 +45,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/0567-permutation-in-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
