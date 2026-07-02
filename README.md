@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/0204-count-primes) |
 ## Enumeration
 |  |
