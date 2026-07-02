@@ -3,9 +3,8 @@ public:
     int reverse(int x) {
         int rev = 0;
         while(x!=0){
-            int digit = x%10;
             if(rev > INT_MAX/10 || rev < INT_MIN/10) return 0;
-            rev = (rev*10) + digit ;
+            rev = (rev*10) + (x%10);
             x = x/10;
         }
         return rev;
@@ -13,12 +12,6 @@ public:
     bool isPalindrome(int n) {
         if(n<0) return false;
 
-        if (n == reverse(n)){
-            return true;
-        }else{
-            return false ;
-        }
-        
-        
+        return n == reverse(n);
     }
 };
