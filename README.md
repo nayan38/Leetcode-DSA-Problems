@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/0031-next-permutation) |
+| [0074-search-a-2d-matrix](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0204-count-primes](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/0204-count-primes) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
