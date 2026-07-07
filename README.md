@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/0031-next-permutation) |
 | [0074-search-a-2d-matrix](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0204-count-primes](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/0204-count-primes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,8 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/nayan38/Leetcode-DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
